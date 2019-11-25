@@ -11,7 +11,7 @@
     "rs-server": "./bin/www.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.0.1",
